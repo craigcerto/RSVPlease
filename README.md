@@ -4,6 +4,10 @@
 
 A Shiny application that transforms wedding RSVP data from The Knot into a streamlined format for place cards and table assignments. This tool bridges the gap between online RSVP platforms and the practical needs of wedding day logistics.
 
+
+https://github.com/user-attachments/assets/96775ad1-5a1d-4c41-a98a-c57c39bb2a6d
+
+
 ## The Challenge
 
 Wedding planners and couples face a common frustration: while platforms like The Knot provide excellent RSVP collection, they export data in formats that aren't immediately usable for creating place cards with meal indicators. This application solves that problem through intelligent data transformation.
